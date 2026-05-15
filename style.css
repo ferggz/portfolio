@@ -141,8 +141,9 @@ main {
 
 .project {
     display: grid;
-    grid-template-columns: 120px 1fr 200px;
+    grid-template-columns: 120px 1fr minmax(280px, auto);
     align-items: center;
+    gap: 20px;
 }
 
 .project-links {
@@ -198,6 +199,7 @@ main {
     color: #555;
     font-size: 14px;
     text-align: right;
+    white-space: nowrap;
 }
 
 footer {
