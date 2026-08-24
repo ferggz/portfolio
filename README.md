@@ -33,4 +33,4 @@ This portfolio showcases some of the projects I have built while transitioning i
 ## Contact
 
 - GitHub: https://github.com/ferggz
-- LinkedIn: https://www.linkedin.com/in/ferggz/?locale=en-US
+- LinkedIn: https://www.linkedin.com/in/ferggz/
